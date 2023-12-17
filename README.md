@@ -22,3 +22,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,mongodb,wordpress" />
   </a>
 </p>
+
+<h3>Explore my recent projects </h3>
+<a href="https://apexartistry-47b43.web.app/">Apex Artistry </a>
+<a href="https://car-doctor-2b00a.web.app/">Car Doctor </a>
+<a href="https://the-dragon-news-alpha.vercel.app/">The Dragon News </a>
