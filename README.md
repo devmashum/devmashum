@@ -24,6 +24,8 @@
 </p>
 
 <h3>Explore my recent projects: </h3>
+<h3>
 <a href="https://apexartistry-47b43.web.app/">Apex Artistry </a> <br>
 <a href="https://car-doctor-2b00a.web.app/">Car Doctor </a> <br>
 <a href="https://the-dragon-news-alpha.vercel.app/">The Dragon News </a>
+</h3>
