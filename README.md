@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md Faisal Ahmed Mashum</h1>
-<h3>A front-end web developer. I love using my creativity to make something new. That's why I enjoy working with React.js, Tailwind, JavaScript, and other web technologies. Over the last year, I have gathered knowledge in various parts of web development on my own. I have also attended two web developer bootcamps to further extend my knowledge in the web technology field. My ultimate goal is to become an awesome full-stack web developer who can create beautiful UIs and also handle the back-end smoothly.</h3> 🚀
+<h1 align="center">Über mich</h1>
+<h3>Mein Name ist Faisal Mashum. Ich bin ein Front-End-Webentwickler. Ich liebe es, meine Kreativität einzusetzen, um etwas Neues zu schaffen. Deshalb arbeite ich gerne mit HRML, CSS, JavaScript, React, Next.js, Tailwind und MongoDB. Im Laufe der letzten Jahre habe ich eigenständig Wissen in verschiedenen Bereichen der Webentwicklung gesammelt. Zudem habe ich an zwei Webentwickler-Bootcamps teilgenommen, um mein Wissen im Bereich der Webtechnologie weiter auszubauen und mich weiter zu entwickeln. Mein ultimatives Ziel ist es schöne benutzerfreundliche Webseiten zu erstellen. 🚀</h3> 🚀
 
 <h3>🌱 I’m currently learning Next.js and MaterialUi</h3>
 
