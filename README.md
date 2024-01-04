@@ -1,13 +1,9 @@
 <h1 align="center">Über mich</h1>
-<h3>Mein Name ist Faisal Mashum. Ich bin ein Front-End-Webentwickler. Ich liebe es, meine Kreativität einzusetzen, um etwas Neues zu schaffen. Deshalb arbeite ich gerne mit HRML, CSS, JavaScript, React, Next.js, Tailwind und MongoDB. Im Laufe der letzten Jahre habe ich eigenständig Wissen in verschiedenen Bereichen der Webentwicklung gesammelt. Zudem habe ich an zwei Webentwickler-Bootcamps teilgenommen, um mein Wissen im Bereich der Webtechnologie weiter auszubauen und mich weiter zu entwickeln. Mein ultimatives Ziel ist es schöne benutzerfreundliche Webseiten zu erstellen. 🚀</h3> 🚀
+<h3>Mein Name ist Faisal Mashum. Ich bin ein Front-End-Webentwickler. Ich liebe es, meine Kreativität einzusetzen, um etwas Neues zu schaffen. Deshalb arbeite ich gerne mit HRML, CSS, JavaScript, React, Next.js, Tailwind und MongoDB. Im Laufe der letzten Jahre habe ich eigenständig Wissen in verschiedenen Bereichen der Webentwicklung gesammelt. Zudem habe ich an zwei Webentwickler-Bootcamps teilgenommen, um mein Wissen im Bereich der Webtechnologie weiter auszubauen und mich weiter zu entwickeln. Mein ultimatives Ziel ist es schöne benutzerfreundliche Webseiten zu erstellen. 🚀</h3> 
 
-<h3>🌱 I’m currently learning Next.js and MaterialUi</h3>
+<h3>👨‍💻Portfolio Webseite: https://explore-faisal.web.app/</h3>
 
-<h3>🤝 I’m looking for An opportunity where I can deliver my skills and innovative ideas as a Web Developer.</h3>
-
-<h3>👨‍💻 All of my projects are available at https://explore-faisal.web.app/</h3>
-
-<h3>📫 How to reach me: dev.mashum@gmail.com</h3>
+<h3>📫 E-mail: dev.mashum@gmail.com</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmashum&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devmashum&theme=default)
@@ -23,7 +19,7 @@
   </a>
 </p>
 
-<h3>Explore my recent projects: </h3>
+<h3>Aktuelle Projekte: </h3>
 <h3>
 <a href="https://apexartistry-47b43.web.app/" target="0">Apex Artistry </a> <br>
 <a href="https://car-doctor-2b00a.web.app/" target="0">Car Doctor </a> <br>
