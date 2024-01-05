@@ -1,5 +1,5 @@
 <h1 align="center">Über mich</h1>
-<h3>Mein Name ist Faisal Mashum. Ich bin ein Front-End-Webentwickler. Ich liebe es, meine Kreativität einzusetzen, um etwas Neues zu schaffen. Deshalb arbeite ich gerne mit HRML, CSS, JavaScript, React, Next.js, Tailwind und MongoDB. Im Laufe der letzten Jahre habe ich eigenständig Wissen in verschiedenen Bereichen der Webentwicklung gesammelt. Zudem habe ich an zwei Webentwickler-Bootcamps teilgenommen, um mein Wissen im Bereich der Webtechnologie weiter auszubauen und mich weiter zu entwickeln. Mein ultimatives Ziel ist es schöne benutzerfreundliche Webseiten zu erstellen. 🚀</h3> 
+<h3>Mein Name ist Faisal Mashum. Ich bin ein Front-End-Webentwickler. Ich liebe es, meine Kreativität einzusetzen, um etwas Neues zu schaffen. Deshalb arbeite ich gerne mit HTML, CSS, JavaScript, React, Next.js, Tailwind und MongoDB. Im Laufe der letzten Jahre habe ich eigenständig Wissen in verschiedenen Bereichen der Webentwicklung gesammelt. Zudem habe ich an zwei Webentwickler-Bootcamps teilgenommen, um mein Wissen im Bereich der Webtechnologie weiter auszubauen und mich weiter zu entwickeln. Mein ultimatives Ziel ist es schöne benutzerfreundliche Webseiten zu erstellen. 🚀</h3> 
 
 <h3>👨‍💻Portfolio Webseite: https://explore-faisal-ahmed.vercel.app/</h3>
 
